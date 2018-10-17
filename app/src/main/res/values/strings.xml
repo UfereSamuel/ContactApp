@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">contact_app</string>
+    <string name="www.ighub.com">Ighub Registration</string>
+    <string name="registration">Registration</string>
+    <string name="first_name">Firstname</string>
+    <string name="last_name">Lastname</string>
+    <string name="email">Email</string>
+    <string name="phone_number">07036414710</string>
+    <string name="pass">********</string>
+    <string name="confirm_password">********</string>
+    <string name="register">Register</string>
+    <string-array name="gender">
+        <item name="Select your gender">Select your gender</item>
+        <item name="Male">Male</item>
+        <item name="Female">Female</item>
+    </string-array>
+</resources>
